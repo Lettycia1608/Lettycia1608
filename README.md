@@ -10,14 +10,12 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lettycia1608&show_icons=true&hide_border=true&theme=rose" alt="Beatriz Veloso github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lettycia1608&layout=compact&hide_border=true&theme=rose"/>
-  <img align="center" <img src="https://github-readme-streak-stats.herokuapp.com?user=Lettycia1608&theme=rose&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lettycia1608&show_icons=true&hide_border=true&theme=vue-dark" alt="Beatriz Veloso github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lettycia1608&layout=compact&hide_border=true&theme=vue-dark"/>
+  <img align="center" <img src="https://github-readme-streak-stats.herokuapp.com?user=Lettycia1608&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 <br/>
 <br/>
-
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=Lettycia1608&custom_title=Al%20BeatrizVeloso's%20GitHub%20Activity%20Graph&bg_color=E9D8D4&color=BB2D42&line=8D192B&point=BB2D42&area_color=FFFFFF&title_color=BB2D42&area=true)
 
 </div>
 
